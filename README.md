@@ -1,4 +1,4 @@
-## Capacitated Clustering Problem: EV Optimization Problem VS Grasp Heuristic
+# Capacitated Clustering Problem: EV Optimization Problem VS Grasp Heuristic
 
 
 ## Project 2 of "Numerical methods for Large Scale Problems 22/23"
