@@ -31,4 +31,14 @@ The pseudocode is:
 <br>
 Our algorithm meets expectations, and despite a slight decrease in overall cost, there is a significant increase in computational costs:
 ![immagine](https://github.com/user-attachments/assets/5b741eca-71d4-4840-a839-ec4da874ee9c)
+<br>
+Furthermore, we evaluated how the computational cost and performance varied by increasing the weight of the stochastic factor in the second stage (capacity mismatch in the clusters) in the optimization problem, achieving excellent results from the use of the heuristic:
+<br>
+![immagine](https://github.com/user-attachments/assets/7eb67cb3-1fe0-4bc0-bb36-e11056fd302a)
+<br>
+In conclusion, the number of clusters allows for the parallel execution of the optimization subproblems, thereby improving the performance of the GRASP algorithm:
+<br>
+![immagine](https://github.com/user-attachments/assets/60b6bda9-7327-4ff2-8005-db7dc5bdb87e)
+<br>
+<br>
 
