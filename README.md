@@ -36,7 +36,7 @@ Furthermore, it was possible to evaluated how the computational cost and perform
 <br>
 ![immagine](https://github.com/user-attachments/assets/7eb67cb3-1fe0-4bc0-bb36-e11056fd302a)
 <br><br>
-Additionally, it is possible to parallel the execution of the optimization subproblems, thereby enhancing the performance of the GRASP algorithm:<br>
+Additionally, it is possible to parallelize the execution of the optimization subproblems, thereby enhancing the performance of the GRASP algorithm:<br>
 ![immagine](https://github.com/user-attachments/assets/60b6bda9-7327-4ff2-8005-db7dc5bdb87e)
 <br>
 <br>
